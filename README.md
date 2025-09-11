@@ -1,6 +1,6 @@
 # 🌐 Google Landing Page Clone
 
-![Project Thumbnail](./thumbnail.png)  
+![Project Thumbnail](./thumbnail.jpg)  
 
 A simple **Google Landing Page Clone** built using **HTML** and **CSS**.  
 This project replicates the clean and minimal design of Google's homepage, focusing on layout, alignment, and styling with pure CSS.
